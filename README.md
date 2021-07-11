@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/CondensedMilk7/single-price-grid-component)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/CondensedMilk7/four-card-feature-section)
+- Live Site URL: [Netlify](https://relaxed-liskov-595f6a.netlify.app/)
 
 ## My process
 
